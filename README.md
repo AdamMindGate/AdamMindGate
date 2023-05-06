@@ -15,7 +15,7 @@
 
 ### <h2>Connect with me:  
 Gmail: adam.rashed101@gmail.com<br>
-Discord: Kicker#3176  <br/>  
+<br/>  
 
 
 ## Github Stats  
