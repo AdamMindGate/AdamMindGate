@@ -1,7 +1,7 @@
 ## **<div align="center">Hi👋, I'm Adam A.Rashed</div>**  
   
 
-### <h3 align ="center">I'm a self-study, highschool student.</br>Passionate about Computer Science & Web Development.</h3>  
+### <h3 align ="center">I'm a self-study, highschool student.</br>Passionate about Computer Science & Mathematics and Web Development.</h3>  
 ![Profile views counter](https://komarev.com/ghpvc/?username=AdamMindGate&&style=flat-square)  
 ### <h2>Languages and Tools: </h2> 
 <div align="left
